@@ -36,7 +36,7 @@ SELECT
 	TRANSLATE(StyleName, '0123456789', 'ABCDEFGHIJ')
 FROM
 	DimProduct
-
+--------------------------------------------------------------------------------------------------------------
 3.
 SELECT
 	FirstName + ' ' + LastName AS 'Nome Completo',
@@ -45,7 +45,7 @@ SELECT
 	UPPER(FirstName + DATENAME(DAYOFYEAR, BirthDate)) AS 'Senha'
 FROM
 	DimEmployee
-
+--------------------------------------------------------------------------------------------------------------
 4.
 SELECT
 	FirstName,
@@ -55,7 +55,7 @@ SELECT
 FROM
 	DimCustomer
 WHERE YEAR(DateFirstPurchase) = 2001
-
+--------------------------------------------------------------------------------------------------------------
 5.
 SELECT
 	FirstName AS 'Nome',
@@ -66,7 +66,7 @@ SELECT
 	YEAR(HireDate) AS 'Ano da contratação'
 FROM
 	DimEmployee
-
+--------------------------------------------------------------------------------------------------------------
 6.
 SELECT
 	StoreName AS 'Nome da Loja',
