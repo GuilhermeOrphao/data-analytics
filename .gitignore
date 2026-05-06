@@ -1,0 +1,26 @@
+# Windows
+desktop.ini
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# Temporary files
+*.tmp
+*.log
+
+# Power BI temporary/cache files
+*.pbix.autosave
+
+# macOS
+.DS_Store
