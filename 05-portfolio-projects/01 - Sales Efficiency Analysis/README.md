@@ -76,12 +76,6 @@ The dashboard includes analyses such as:
 
 ---
 
-## Tooltip Analysis
-
-![Tooltip](images/Tooltip.png)
-
----
-
 # Business Insights
 
 Some insights generated from the analysis include:
@@ -96,25 +90,25 @@ Some insights generated from the analysis include:
 
 # Project Structure
 
+```text
 sales-efficiency-analysis
 │
 ├── dashboard
-│ └── dashboard.pbix
+│   └── dashboard.pbix
 │
 ├── dataset
-│ ├── fCompras.xlsx
-│ ├── dFornecedor.xlsx
-│ ├── dComprador.xlsx
-│ ├── dMateriaPrima.xlsx
-│ └── dCalendario.xlsx
+│   ├── fCompras.xlsx
+│   ├── dFornecedor.xlsx
+│   ├── dComprador.xlsx
+│   ├── dMateriaPrima.xlsx
+│   └── dCalendario.xlsx
 │
 ├── images
-│ ├── dashboard-overview.png
-│ ├── dashboard-filters-tooltip.png
-│ └── Tooltip.png
+│   ├── dashboard-overview.png
+│   ├── dashboard-filters-tooltip.png
+│   └── Tooltip.png
 │
 └── README.md
-
 ```
 
 ---
@@ -132,6 +126,7 @@ Possible future improvements for this project:
 ---
 
 # Author
+
 Guilherme Orphão
 
 LinkedIn:
@@ -139,4 +134,7 @@ https://www.linkedin.com/in/guilhermeorphao/
 
 GitHub:
 https://github.com/GuilhermeOrphao
+
+```
+
 ```
