@@ -1,159 +1,267 @@
-Data Analytics
+# Data Analytics Portfolio
 
-Olá! Meu nome é Guilherme Orphão
-Sou formado em Sistemas de Informação e estou em transição para a área de Análise de Dados, com o objetivo de transformar dados em informações estratégicas que apoiem a tomada de decisões em negócios.
-Tenho uma sólida base em tecnologia, lógica computacional e bancos de dados, além de experiência prática com ferramentas de análise e visualização de dados.
-Este repositório foi criado para documentar minha jornada de aprendizado em Data Analytics, reunindo estudos, exercícios práticos e projetos desenvolvidos ao longo da minha formação.
+Hello! My name is Guilherme Orphão.
 
---------------------------------------------------------------------------------------------------
+I am a Data Analytics professional with a Bachelor's degree in Information Systems, focused on transforming data into strategic insights that support business decision-making.
 
-# Objetivo Profissional
-
-Busco oportunidades como Analista de Dados Júnior, onde eu possa:
-
-• aplicar minhas habilidades técnicas
-• aprender com profissionais da área
-• contribuir com análises orientadas por dados
-• ajudar empresas a tomarem decisões melhores com base em dados
-
-Este repositório funciona como meu portfólio técnico de análise de dados.
-
---------------------------------------------------------------------------------------------------
-
-# Sobre Mim
-
-Bacharel em Sistemas de Informação — Universidade Paulista (UNIP)
-
-Perfil analítico, curioso e orientado à resolução de problemas
-
-Foco em transformar dados em insights úteis para o negócio
-
-São Paulo — Brasil
-
---------------------------------------------------------------------------------------------------
-
-# Experiência
-
-Analista de dados
-
-Jul 2022 — Mar 2023
-
-Principais atividades:
-
-• Criação de dashboards utilizando Looker Studio
-• Desenvolvimento de páginas utilizando WordPress
-• Atendimento ao cliente e resolução de problemas
-• Participação em reuniões para melhoria de processos
-
-Essa experiência fortaleceu minha visão de dados aplicados ao negócio.
-
---------------------------------------------------------------------------------------------------
-
-# Tecnologias e Ferramentas
-
-Linguagens
-• Python
-• JavaScript
-
-Análise de Dados
-• Power BI
-• Excel
-• Looker Studio
-
-Banco de Dados
-• SQL
-• MySQL
-• SQL Server
-
-Data & Development Tools
-• Git
-• GitHub
-
-Web
-• HTML
-• CSS
-• Bootstrap
-• WordPress
-
---------------------------------------------------------------------------------------------------
-
-# Estudos Atuais
-
-Atualmente estou aprofundando meus estudos em:
-
-• Estatística aplicada à análise de dados
-• SQL para análise de dados
-• Visualização de dados com dashboards
-• Projetos práticos de análise de dados
-
---------------------------------------------------------------------------------------------------
-
-# Estrutura do Repositório
-
-Este repositório está organizado da seguinte forma:
-
-# 01-learning
-
-Materiais de estudo, anotações e experimentos realizados durante o aprendizado.
-
-# 02-practical-exercises
-
-Exercícios práticos desenvolvidos para consolidar conhecimentos técnicos.
-
-# 03-datasets
-
-Bases de dados utilizadas nos estudos e projetos.
-
-# 04-course-projects
-
-Projetos desenvolvidos durante cursos e formações.
-
-# 05-portfolio-projects
-
-Projetos completos desenvolvidos para demonstrar habilidades em análise de dados.
-
-# project-template
-
-Estrutura modelo para criação de novos projetos de análise de dados.
-
---------------------------------------------------------------------------------------------------
-
-# Portfolio Projects
-
-Esta seção será utilizada para apresentar projetos completos de análise de dados que simulam problemas reais de negócio.
-
-Atualmente estou desenvolvendo meus primeiros projetos de portfólio, que incluirão:
-
-• Análise de dados de vendas
-• Segmentação de clientes
-• Análise de indicadores de recursos humanos
-
-Os projetos serão publicados em breve conforme forem concluídos.
-
---------------------------------------------------------------------------------------------------
-
-# Evolução Contínua
-
-Este repositório será atualizado constantemente com:
-
-• novos projetos
-• dashboards
-• análises exploratórias
-• exercícios práticos
-
-conforme avanço na minha jornada profissional na área de Data Analytics.
+This repository was created to document my journey in Data Analytics, bringing together studies, dashboards, datasets, practical exercises, and portfolio projects developed through academic experiences, professional activities, and freelance work.
 
 ---
 
-# Contato
+# Professional Objective
 
-LinkedIn
-https://www.linkedin.com/in/guilhermeorphao/
+Seeking opportunities as a Junior Data Analyst, contributing with analytical thinking, dashboard development, business insights, and data-driven solutions that support strategic decisions and operational improvements.
 
-GitHub
-https://github.com/GuilhermeOrphao
+---
 
-Email
-[orphaopng@gmail.com]
+# Professional Summary
 
-Obrigado por visitar meu portfólio!
+Data professional with experience in dashboard creation using Looker Studio and advanced development in Power BI and SQL, with knowledge acquired through internship experience and practical projects developed during my academic journey.
+
+Currently working as a freelance Data Analyst, developing interactive dashboards focused on KPIs, data modeling, exploratory analysis, reporting automation, and business-oriented analytical solutions.
+
+Strong knowledge in:
+
+- Power BI
+- SQL
+- Excel
+- Data Modeling
+- Exploratory Data Analysis (EDA)
+- Business Intelligence
+- Python for Data Analysis
+
+Focused on continuous learning, analytical problem-solving, and transforming raw data into actionable insights.
+
+---
+
+# Education
+
+## Bachelor's Degree in Information Systems
+
+**Universidade Paulista (UNIP)**  
+2019 — 2023
+
+---
+
+# Professional Experience
+
+## Freelance Data Analyst
+
+**Self-employed — Suzano, SP**  
+Jan 2026 — Present
+
+Main activities:
+
+- Development of interactive dashboards in Power BI
+- KPI monitoring and business performance analysis
+- Data collection, cleaning, and organization using Excel and SQL
+- Data modeling using fact and dimension tables
+- Report automation and process optimization
+- Exploratory data analysis to identify patterns and opportunities
+- Business-oriented insights generation
+
+---
+
+## Data Analyst Intern
+
+**GoToAds — Suzano, SP**  
+2022 — 2023
+
+Main activities:
+
+- Dashboard development using Looker Studio
+- Data treatment and organization for reporting
+- Support in landing page development using WordPress
+- Customer support and problem-solving
+- Participation in performance and process improvement activities
+
+This experience strengthened my understanding of business operations, reporting processes, and data visualization.
+
+---
+
+# Technical Skills
+
+## Data Analysis & Business Intelligence
+
+- Power BI
+- Looker Studio
+- Excel Advanced
+- KPI Analysis
+- Dashboard Development
+- Data Visualization
+
+## Databases & Query Languages
+
+- SQL
+- MySQL
+- SQL Server
+
+## Programming & Data
+
+- Python
+- Exploratory Data Analysis (EDA)
+- Data Modeling
+
+## Version Control & Tools
+
+- Git
+- GitHub
+
+## Web Technologies
+
+- HTML
+- CSS
+- Bootstrap
+- WordPress
+
+---
+
+# Certifications & Courses
+
+## Power BI Impressionador — Hashtag Treinamentos
+
+- 118 hours
+- Completed in 2026
+
+## SQL Impressionador — Hashtag Treinamentos
+
+- 90 hours
+- Completed in 2026
+
+## Statistics for Data Analysis with Python — Udemy
+
+- 18 hours
+- Completed in 2026
+
+## Microsoft Office Package — Fundação Bradesco
+
+- 74 hours
+- Completed in 2022
+
+## English
+
+- Intermediate Level
+
+---
+
+# Repository Structure
+
+## 01-learning
+
+Study materials, notes, and experiments created during my learning process.
+
+Topics:
+
+- Power BI
+- Python
+- SQL
+
+## 02-practical-exercises
+
+Hands-on exercises focused on strengthening technical and analytical skills.
+
+Topics:
+
+- Excel
+- Power BI
+- SQL
+
+## 03-datasets
+
+Datasets used in studies, exercises, dashboards, and portfolio projects.
+
+## 04-course-projects
+
+Projects developed during courses, bootcamps, and professional training.
+
+## 05-portfolio-projects
+
+Complete business-oriented projects created to demonstrate practical Data Analytics and Business Intelligence skills.
+
+Current projects:
+
+- Sales Efficiency Analysis
+- Customer Segmentation
+- HR Analytics
+
+## project-template
+
+Reusable project structure template for future Data Analytics projects.
+
+Includes:
+
+- Dashboard folder
+- Dataset folder
+- Images folder
+- SQL folder
+
+---
+
+# Portfolio Projects
+
+This repository contains practical projects designed to simulate real business scenarios using data analysis, visualization, and Business Intelligence techniques.
+
+The projects focus on:
+
+- KPI analysis
+- Business performance monitoring
+- Dashboard development
+- Customer behavior analysis
+- Data storytelling
+- Insight generation
+- Decision-making support
+
+Each project includes documentation, datasets, dashboards, and analytical insights whenever applicable.
+
+---
+
+# Current Focus
+
+Currently improving my knowledge in:
+
+- Advanced SQL
+- Power BI dashboard design
+- Statistics for Data Analysis
+- Python for Data Analytics
+- Business Intelligence concepts
+- Data storytelling
+- Real-world portfolio projects
+
+---
+
+# Professional Characteristics
+
+- Analytical mindset
+- Continuous learning
+- Technical versatility
+- Attention to detail
+- Organization
+- Adaptability
+- Results-oriented profile
+
+---
+
+# Availability
+
+- Immediate start available
+- Open to on-site and remote opportunities
+
+---
+
+# Contact
+
+## LinkedIn
+
+www.linkedin.com/in/guilhermeorphao/
+
+## GitHub
+
+github.com/GuilhermeOrphao
+
+## Email
+
+orphaopng@gmail.com
+
+---
+
+Thank you for visiting my portfolio!

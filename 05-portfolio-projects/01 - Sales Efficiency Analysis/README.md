@@ -135,6 +135,5 @@ https://www.linkedin.com/in/guilhermeorphao/
 GitHub:
 https://github.com/GuilhermeOrphao
 
-```
-
-```
+Email
+[orphaopng@gmail.com]
